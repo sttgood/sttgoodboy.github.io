@@ -1,41 +1,316 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[C语言指针运算符优先级]]></title>
-    <url>%2F2019%2F11%2F07%2FC%E8%AF%AD%E8%A8%80%E6%8C%87%E9%92%88%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7%2F</url>
-    <content type="text"><![CDATA[指针运算符优先级一简单介绍 目： 目是指操作所需的实体的位数，如自加1++，这里的自加++运算符为一目。加法1+1这里的加法运算符为双目，较少的三目运算符条件运算符：？（表达式1？表达式2：表达式三）。常常目数较少的运算符的优先级较高，常见的大多为双目。 对于运算符的优先级，不必刻意记忆，强行记忆容易忘记，使用时查表即可，时间久了就大概了解了。运算符表]]></content>
+    <title>C语言指针运算符优先级</title>
+    <url>/2019/11/07/C%E8%AF%AD%E8%A8%80%E6%8C%87%E9%92%88%E8%BF%90%E7%AE%97%E7%AC%A6%E4%BC%98%E5%85%88%E7%BA%A7/</url>
+    <content><![CDATA[<h1 id="指针运算符优先级"><a href="#指针运算符优先级" class="headerlink" title="指针运算符优先级"></a>指针运算符优先级</h1><h2 id="一简单介绍"><a href="#一简单介绍" class="headerlink" title="一简单介绍"></a>一简单介绍</h2><ul>
+<li>目： 目是指操作所需的实体的位数，如自加1++，这里的自加++运算符为一目。加法1+1这里的加法运算符为双目，较少的三目运算符条件运算符：？（表达式1？表达式2：表达式三）。常常目数较少的运算符的优先级较高，常见的大多为双目。</li>
+<li>对于运算符的优先级，不必刻意记忆，强行记忆容易忘记，使用时查表即可，时间久了就大概了解了。<h2 id="二运算符表"><a href="#二运算符表" class="headerlink" title="二运算符表"></a>二运算符表</h2></li>
+</ul>
+]]></content>
       <tags>
         <tag>C语言</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[我的生活学习法则]]></title>
-    <url>%2F2019%2F07%2F13%2F%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%B3%95%E5%88%99%2F</url>
-    <content type="text"><![CDATA[Reach the goals[1] My life has been a trade-off. 我的人生是一场交易]]></content>
+    <title>我的生活学习法则</title>
+    <url>/2019/07/13/%E6%88%91%E7%9A%84%E7%94%9F%E6%B4%BB%E6%B3%95%E5%88%99/</url>
+    <content><![CDATA[<h1 id="Reach-the-goals"><a href="#Reach-the-goals" class="headerlink" title="Reach the goals"></a>Reach the goals</h1><p>[1] My life has been a trade-off.<br>    我的人生是一场交易</p>
+]]></content>
       <tags>
         <tag>学习</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[外篇：哲学]]></title>
-    <url>%2F2019%2F07%2F04%2F%E5%A4%96%E7%AF%87%EF%BC%9A%E5%93%B2%E5%AD%A6%2F</url>
-    <content type="text"><![CDATA[背景人物 尼采： 原名弗里德里希·威廉·尼采(1844年10月15日－1900年8月25日)，著名德国语言学家、哲学家、文化评论家、诗人、作曲家，他的著作对于宗教、道德、现代文化、哲学、以及科学等领域提出广泛的批判和讨论。他的写作风格独特，经常使用格言和悖论的技巧。尼采对于后代哲学的发展影响极大，尤其是在存在主义与后现代主义上。 哲学感悟不能听命与自己者，就要受命于他人 所谓高贵的灵魂，即对自己怀有敬畏之心。 常常谈论自己的人，往往是为了隐藏自己。 谁终将声震人间，必长久深自缄默；谁终将点燃闪电，必长久如云漂泊。 与恶龙缠斗过久，自身亦成为恶龙。凝视深渊过久，深渊将回以凝视。 一棵树要长得高更高，接受更多光明，那么它的根就必须更深入黑暗。 我感到难过，不是因为你欺骗了我，而是因为我再也不能相信你了。 但凡不能杀死你的，终将都会使你更加强大。 你要搞清楚自己人生的剧本—————不是你父母的续集，不是你子女的前传，更不是你朋友的外篇。 对待生命你不妨大胆冒险一些，因为好歹你要失去它。 如果这个世界上真的有奇迹，那只是努力的另一个名字。 生命中最难的阶段不是没有人懂你，而是你不懂你自己。 你有你的路，我有我的路。至于适当的路、正确的路和唯一的路，这样的路并不存在。 战争和勇气比博爱成就过更多的伟业； 一个人知道自己为什么而活，就可以忍受任何一种生活。 每一个不曾起舞的日次都是对生命的辜负。 你遭受了痛苦，你也不要向人诉说，以求同情，因为一个有独特性的人，连他的痛苦都是独特的，深刻的，不易被人了解。别人的同情只会解除你的痛苦的个性，使之降地为平庸的烦恼，同时也就是你的人格遭到贬值。 对于那些无法对自己诚实的“伟人”，我一点都无法承认他们的伟大，自欺的人，令我感到作呕，无论他们曾经做了何种伟大的事业，我给他们的评价还是零分。 核心理念面对嫉妒心嫉妒，乃生命的重要元素，是引导欲望的一盏明灯，每一个我们心生羡慕的人，应被视为未来能成为的人物。嫉妒，督促我们不满于现状，正视自己的欲望。 从不饮酒酒精麻痹我们的身体，它使我们相信事自然会好转，因而削弱了我们改善生活的精神意志。 上帝已死宗教留下的缺口，应该由文华来填补（哲学，艺术，音乐，文学）文华应该取代圣经]]></content>
+    <title>外篇：哲学</title>
+    <url>/2019/07/04/%E5%A4%96%E7%AF%87%EF%BC%9A%E5%93%B2%E5%AD%A6/</url>
+    <content><![CDATA[<h1 id="背景人物"><a href="#背景人物" class="headerlink" title="背景人物"></a>背景人物</h1><img src="/2019/07/04/外篇：哲学/nicai.jpg" title="尼采">
+
+<p><strong>尼采：</strong> 原名<a href="https://zh.wikipedia.org/wiki/%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E5%B0%BC%E9%87%87" target="_blank" rel="noopener">弗里德里希·威廉·尼采</a>(1844年10月15日－1900年8月25日)，著名德国语言学家、哲学家、文化评论家、诗人、作曲家，他的著作对于宗教、道德、现代文化、哲学、以及科学等领域提出广泛的批判和讨论。他的写作风格独特，经常使用格言和悖论的技巧。尼采对于后代哲学的发展影响极大，尤其是在存在主义与后现代主义上。</p>
+<hr>
+<h1 id="哲学感悟"><a href="#哲学感悟" class="headerlink" title="哲学感悟"></a>哲学感悟</h1><p>不能听命与自己者，就要受命于他人</p>
+<hr>
+<p>所谓高贵的灵魂，即对自己怀有敬畏之心。</p>
+<hr>
+<p>常常谈论自己的人，往往是为了隐藏自己。</p>
+<hr>
+<p>谁终将声震人间，必长久深自缄默；<br>谁终将点燃闪电，必长久如云漂泊。</p>
+<hr>
+<p>与恶龙缠斗过久，自身亦成为恶龙。<br>凝视深渊过久，深渊将回以凝视。</p>
+<hr>
+<p>一棵树要长得高更高，接受更多光明，那么它的根就必须更深入黑暗。</p>
+<hr>
+<p>我感到难过，不是因为你欺骗了我，而是因为我再也不能相信你了。</p>
+<hr>
+<p>但凡不能杀死你的，终将都会使你更加强大。</p>
+<hr>
+<p>你要搞清楚自己人生的剧本—————不是你父母的续集，不是你子女的前传，更不是你朋友的外篇。  </p>
+<hr>
+<p>对待生命你不妨大胆冒险一些，因为好歹你要失去它。</p>
+<hr>
+<p>如果这个世界上真的有奇迹，那只是努力的另一个名字。</p>
+<hr>
+<p>生命中最难的阶段不是没有人懂你，而是你不懂你自己。</p>
+<hr>
+<p>你有你的路，我有我的路。至于适当的路、正确的路和唯一的路，这样的路并不存在。</p>
+<hr>
+<p>战争和勇气比博爱成就过更多的伟业；</p>
+<hr>
+<p>一个人知道自己为什么而活，就可以忍受任何一种生活。</p>
+<hr>
+<p>每一个不曾起舞的日次都是对生命的辜负。</p>
+<hr>
+<p>你遭受了痛苦，你也不要向人诉说，以求同情，因为一个有独特性的人，连他的痛苦都是独特的，深刻的，不易被人了解。别人的同情只会解除你的痛苦的个性，使之降地为平庸的烦恼，同时也就是你的人格遭到贬值。</p>
+<hr>
+<p>对于那些无法对自己诚实的“伟人”，我一点都无法承认他们的伟大，自欺的人，令我感到作呕，无论他们曾经做了何种伟大的事业，我给他们的评价还是零分。</p>
+<h1 id="核心理念"><a href="#核心理念" class="headerlink" title="核心理念"></a>核心理念</h1><h2 id="面对嫉妒心"><a href="#面对嫉妒心" class="headerlink" title="面对嫉妒心"></a>面对嫉妒心</h2><p>嫉妒，乃生命的重要元素，是引导欲望的一盏明灯，每一个我们心生羡慕的人，应被视为未来能成为的人物。<br>嫉妒，督促我们不满于现状，正视自己的欲望。</p>
+<h2 id="从不饮酒"><a href="#从不饮酒" class="headerlink" title="从不饮酒"></a>从不饮酒</h2><p>酒精麻痹我们的身体，它使我们相信事自然会好转，因而削弱了我们改善生活的精神意志。</p>
+<h2 id="上帝已死"><a href="#上帝已死" class="headerlink" title="上帝已死"></a>上帝已死</h2><p>宗教留下的缺口，应该由文华来填补（哲学，艺术，音乐，文学）文华应该取代圣经</p>
+]]></content>
       <tags>
         <tag>哲学</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[hexo的使用与部署]]></title>
-    <url>%2F2019%2F06%2F23%2Fhexo%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E9%83%A8%E7%BD%B2%2F</url>
-    <content type="text"><![CDATA[Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+    <title>hexo的使用与部署</title>
+    <url>/2019/06/23/hexo%E7%9A%84%E4%BD%BF%E7%94%A8%E4%B8%8E%E9%83%A8%E7%BD%B2/</url>
+    <content><![CDATA[<h1 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a><a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Quick Start</a></h1><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
       <tags>
         <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
-    <title><![CDATA[初步应用介绍]]></title>
-    <url>%2F2019%2F05%2F28%2F%E5%88%9D%E6%AD%A5%E5%BA%94%E7%94%A8%E4%BB%8B%E7%BB%8D%2F</url>
-    <content type="text"><![CDATA[markdown语法大全一、标题Markdown 支持两种标题的语法，类 Atx 和类 Setext 形式。 1.1 Atx形式的标题可以使用1~6个#分别代表一到六级标题示例： # 一级标题 # ## 二级标题 ## ### 三级标题 ### #### 四级标题 #### ##### 五级标题 ##### ###### 六级标题 ###### 显示效果： H1一级标题H2二级标题H3三级标题H4四级标题H5五级标题H6六级标题 1.2 Setext 形式是用底线的形式，利用 = （最高阶标题）和 - （第二阶标题）（任何数量）示例： This is an H1 ============= This is an H2 ------------- 显示效果： This is an H1This is an H2 二、斜体用*号包围，强调用*号包围,强调斜体用**包围示例： *斜体* **强调** ***强调斜体*** 显示效果： 斜体强调强调斜体 三、引用在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;四个’’’ 示例： &gt;这是引用的内容 &gt;&gt;这是引用的内容 &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;这是引用的内容 显示效果： 这是引用的内容 这是引用的内容 这是引用的内容 四、分割线三个或三个以上的 - 或者 * 以空格隔开示例： - - - - - - - * * * * * * * * 显示效果： 五、列表无序列表用 - + * 任何一种都可以有序则使用数字加点开头 5.1 无序列表无序列表用 - + * 示例： - 列表内容 + 列表内容 * 列表内容显示效果： 列表内容 列表内容 列表内容 5.2 有序列表数字加点 1. 列表内容 2. 列表内容 3. 列表内容 ** 显示效果** 列表内容 列表内容 列表内容 5.3 列表嵌套上衣级与下一级之间敲三个空格即可 示例： + 一级无序列表内容 + 二级无序列表内容 - 二级无序列表内容 * 二级无序列表内容 - 一级无序列表内容 * 一级无序列表 1. 一级有序列表内容 1. 二级无序列表内容 2. 二级无序列表内容 3. 二级无序列表内容 2. 一级有序列表内容 ** 显示效果：** 一级无序列表内容 二级无序列表内容 二级无序列表内容 二级无序列表内容 一级无序列表内容 二级无序列表内容 二级无序列表内容 二级无序列表内容 一级无序列表 一级有序列表内容 二级无序列表内容 二级无序列表内容 二级无序列表内容 一级有序列表内容 六、表格示例： |head one| head two| head three| |--- | :---: | ---:| |left| center| right| |left | center | right|** 显示效果 ** head one head two head three left center right left center right 七、链接7.1 超链接语法结构为：[超链接名](超链接地址 “超链接title”)其中title为可选示例： [百度](https://www.baidu.com &quot;这是百度的链接&quot;) ** 显示效果： ** 百度 当然markdown也支持html中的a标签:示例： &lt;a href=&quot;http://www.w3school.com.cn/index.html&quot;&gt;W3School 在线教程&lt;/a&gt; 显示效果： W3School 在线教程 7.2 邮件邮件则直接使用尖括号&lt;&gt;包围示例： &lt;776599148@qq.com&gt;显示效果 &#55;&#x37;&#x36;&#53;&#x39;&#x39;&#x31;&#x34;&#56;&#x40;&#113;&#113;&#x2e;&#99;&#x6f;&#109; 八、图片链接8.1单独图片文件夹图片集中存放在source文件下创建的图片文件下基本语法结构为： ![图片alt](图片地址 &apos;&apos;optional title&apos;&apos;)或者： &lt;img src=&quot;&quot; alt=&quot;&quot;&gt; 图片alt就是显示在图片未加载时的文字描述，相当于对图片内容的解释。图片地址可为相对地址或者绝地地址，或者数据格式。图片title是图片的标题，时显示的内容。title可选。img标签的图像大小可选择。 注:hexo中图片的绝对路径为hexo文件下的source中，是要本地文件需要在source文件夹下创建图片文件夹。另外，部分编辑器依据md文件所在为绝对路径作为显示，故部分编辑器在预览是可能不显示图片。示例： ![图片](/images/MarkSloan.jpg &quot;实习医生格蕾marksloan&quot;) &lt;img src=&quot;/images/marksloan2.jpg&quot; width=200 height = 200 alt=&quot;Mark Sloan&quot; title=&quot;使用 img标签Mark Sloan&quot;&gt;显示下效果 当然图片也可以上传到图片床，然后使用在线链接。 8.2图片跟随文件找到并设置config.yml配置文件： post_asset_folder: true 设置后每次执行hexo new [blog]命令后，会自动创建一个与新建blog.md名字相同的blog文件夹，将图片放入即可，使用时：示例： ![第一种方式](aaa.jpg) 或者 {% asset_img aaa.jpg [第二中方式] %}直接写入文件名即可显示效果 九、代码块9.1 行内代码高亮行内代码块使用反引号包围 示例： 这是`java`语言代码块 显示效果： 这是java代码 9.2 多行代码高亮代码高亮用三个反引号示例： ```代码……代码……代码……``` 显示效果： 123代码…… 代码…… 代码…… 代码区域使用4个连续的空格代码区域 代码区域 代码区域]]></content>
+    <title>初步应用介绍</title>
+    <url>/2019/05/28/%E5%88%9D%E6%AD%A5%E5%BA%94%E7%94%A8%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h1 id="markdown语法大全"><a href="#markdown语法大全" class="headerlink" title="markdown语法大全"></a><a href="https://www.w3cschool.cn/markdownyfsm/apg1e0.html" target="_blank" rel="noopener">markdown语法大全</a></h1><h2 id="一、标题"><a href="#一、标题" class="headerlink" title="一、标题"></a>一、标题</h2><p>Markdown 支持两种标题的语法，类 Atx 和类  Setext 形式。  </p>
+<h3 id="1-1-Atx形式的标题可以使用1-6个-分别代表一到六级标题"><a href="#1-1-Atx形式的标题可以使用1-6个-分别代表一到六级标题" class="headerlink" title="1.1 Atx形式的标题可以使用1~6个#分别代表一到六级标题"></a>1.1 Atx形式的标题可以使用1~6个#分别代表一到六级标题</h3><p>示例：</p>
+<pre><code># 一级标题 #   
+## 二级标题 ##  
+### 三级标题 ###  
+#### 四级标题 ####  
+##### 五级标题 #####  
+###### 六级标题 ######   </code></pre><p><strong>显示效果：</strong></p>
+<blockquote>
+<h1 id="H1一级标题"><a href="#H1一级标题" class="headerlink" title="H1一级标题"></a>H1一级标题</h1><h2 id="H2二级标题"><a href="#H2二级标题" class="headerlink" title="H2二级标题"></a>H2二级标题</h2><h3 id="H3三级标题"><a href="#H3三级标题" class="headerlink" title="H3三级标题"></a>H3三级标题</h3><h4 id="H4四级标题"><a href="#H4四级标题" class="headerlink" title="H4四级标题"></a>H4四级标题</h4><h5 id="H5五级标题"><a href="#H5五级标题" class="headerlink" title="H5五级标题"></a>H5五级标题</h5><h6 id="H6六级标题"><a href="#H6六级标题" class="headerlink" title="H6六级标题"></a>H6六级标题</h6></blockquote>
+<h3 id="1-2-Setext-形式是用底线的形式，利用-（最高阶标题）和-（第二阶标题）（任何数量）"><a href="#1-2-Setext-形式是用底线的形式，利用-（最高阶标题）和-（第二阶标题）（任何数量）" class="headerlink" title="1.2 Setext 形式是用底线的形式，利用 = （最高阶标题）和 - （第二阶标题）（任何数量）"></a>1.2 Setext 形式是用底线的形式，利用 = （最高阶标题）和 - （第二阶标题）（任何数量）</h3><p>示例：</p>
+<pre><code>This is an H1  
+=============
+
+This is an H2  
+-------------  </code></pre><p><strong>显示效果：</strong></p>
+<blockquote>
+<h1 id="This-is-an-H1"><a href="#This-is-an-H1" class="headerlink" title="This is an H1"></a>This is an H1</h1><h2 id="This-is-an-H2"><a href="#This-is-an-H2" class="headerlink" title="This is an H2"></a>This is an H2</h2></blockquote>
+<h2 id="二、斜体用-号包围，强调用-号包围-强调斜体用-包围"><a href="#二、斜体用-号包围，强调用-号包围-强调斜体用-包围" class="headerlink" title="二、斜体用*号包围，强调用*号包围,强调斜体用**包围"></a>二、斜体用*号包围，强调用*<em>号包围,强调斜体用**</em>包围</h2><p>示例：</p>
+<pre><code>*斜体*  
+**强调**  
+***强调斜体***  </code></pre><p><strong>显示效果：</strong></p>
+<blockquote>
+<p><em>斜体</em><br><strong>强调</strong><br><strong><em>强调斜体</em></strong> </p>
+</blockquote>
+<h2 id="三、引用"><a href="#三、引用" class="headerlink" title="三、引用"></a>三、引用</h2><p>在引用的文字前加&gt;即可。引用也可以嵌套，如加两个&gt;&gt;三个&gt;&gt;&gt;四个’’’ </p>
+<p>示例：  </p>
+<pre><code>&gt;这是引用的内容  
+&gt;&gt;这是引用的内容  
+&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;这是引用的内容  </code></pre><p><strong>显示效果：</strong></p>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<p>这是引用的内容</p>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<blockquote>
+<p>这是引用的内容</p>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+</blockquote>
+<h2 id="四、分割线"><a href="#四、分割线" class="headerlink" title="四、分割线"></a>四、分割线</h2><p>三个或三个以上的 - 或者 * 以<strong>空格</strong>隔开<br>示例：  </p>
+<pre><code>- - -  
+- - - -  
+* * *  
+* * * * *  </code></pre><p><strong>显示效果：</strong>   </p>
+<blockquote>
+<hr>
+<hr>
+<hr>
+<hr>
+</blockquote>
+<h2 id="五、列表"><a href="#五、列表" class="headerlink" title="五、列表"></a>五、列表</h2><p>无序列表用 - + * 任何一种都可以有序则使用数字加点开头    </p>
+<h3 id="5-1-无序列表"><a href="#5-1-无序列表" class="headerlink" title="5.1 无序列表"></a>5.1 无序列表</h3><p>无序列表用 - + *  </p>
+<p>示例：</p>
+<pre><code>- 列表内容  
++ 列表内容  
+* 列表内容</code></pre><p><strong>显示效果：</strong></p>
+<blockquote>
+<ul>
+<li>列表内容</li>
+</ul>
+<ul>
+<li>列表内容</li>
+</ul>
+<ul>
+<li>列表内容</li>
+</ul>
+</blockquote>
+<h3 id="5-2-有序列表"><a href="#5-2-有序列表" class="headerlink" title="5.2 有序列表"></a>5.2 有序列表</h3><p>数字加点</p>
+<pre><code>1. 列表内容  
+2. 列表内容  
+3. 列表内容  </code></pre><p>** 显示效果**  </p>
+<blockquote>
+<ol>
+<li>列表内容</li>
+<li>列表内容</li>
+<li>列表内容</li>
+</ol>
+</blockquote>
+<h3 id="5-3-列表嵌套"><a href="#5-3-列表嵌套" class="headerlink" title="5.3 列表嵌套"></a>5.3 列表嵌套</h3><p>上衣级与下一级之间敲三个空格即可</p>
+<p>示例：  </p>
+<pre><code>+ 一级无序列表内容 
+
+    + 二级无序列表内容  
+    - 二级无序列表内容  
+    * 二级无序列表内容 
+
+- 一级无序列表内容  
+* 一级无序列表 
+
+1. 一级有序列表内容  
+
+    1. 二级无序列表内容  
+    2. 二级无序列表内容  
+    3. 二级无序列表内容
+
+2. 一级有序列表内容  </code></pre><p>** 显示效果：**  </p>
+<blockquote>
+<ul>
+<li>一级无序列表内容<ul>
+<li>二级无序列表内容</li>
+</ul>
+<ul>
+<li>二级无序列表内容</li>
+</ul>
+<ul>
+<li>二级无序列表内容</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>一级无序列表内容<ul>
+<li>二级无序列表内容</li>
+</ul>
+<ul>
+<li>二级无序列表内容</li>
+</ul>
+<ul>
+<li>二级无序列表内容</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>一级无序列表</li>
+</ul>
+<ol>
+<li>一级有序列表内容<ol>
+<li>二级无序列表内容</li>
+<li>二级无序列表内容</li>
+<li>二级无序列表内容</li>
+</ol>
+</li>
+<li>一级有序列表内容</li>
+</ol>
+</blockquote>
+<h2 id="六、表格"><a href="#六、表格" class="headerlink" title="六、表格"></a>六、表格</h2><p>示例：</p>
+<pre><code>|head one| head two| head three|  
+|--- | :---: | ---:|   
+|left| center| right|  
+|left | center  | right|</code></pre><p>** 显示效果  **  </p>
+<blockquote>
+<table>
+<thead>
+<tr>
+<th>head one</th>
+<th align="center">head two</th>
+<th align="right">head three</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>left</td>
+<td align="center">center</td>
+<td align="right">right</td>
+</tr>
+<tr>
+<td>left</td>
+<td align="center">center</td>
+<td align="right">right</td>
+</tr>
+</tbody></table>
+</blockquote>
+<h2 id="七、链接"><a href="#七、链接" class="headerlink" title="七、链接"></a>七、链接</h2><h3 id="7-1-超链接"><a href="#7-1-超链接" class="headerlink" title="7.1 超链接"></a>7.1 超链接</h3><p>语法结构为：[超链接名](超链接地址 “超链接title”)<br>其中title为可选<br>示例：</p>
+<pre><code>[百度](https://www.baidu.com &quot;这是百度的链接&quot;)  </code></pre><p>** 显示效果： **</p>
+<blockquote>
+<p><a href="https://www.baidu.com" title="这是百度的链接" target="_blank" rel="noopener">百度</a></p>
+</blockquote>
+<p>当然markdown也支持html中的a标签:<br>示例：</p>
+<pre><code>&lt;a href=&quot;http://www.w3school.com.cn/index.html&quot;&gt;W3School 在线教程&lt;/a&gt;  </code></pre><p><strong>显示效果：</strong>    </p>
+<p><a href="http://www.w3school.com.cn/index.html" target="_blank" rel="noopener">W3School 在线教程</a></p>
+<h3 id="7-2-邮件"><a href="#7-2-邮件" class="headerlink" title="7.2 邮件"></a>7.2 邮件</h3><p>邮件则直接使用尖括号&lt;&gt;包围<br>示例：</p>
+<pre><code>&lt;776599148@qq.com&gt;</code></pre><p><strong>显示效果</strong></p>
+<p><a href="mailto:&#55;&#55;&#54;&#53;&#x39;&#x39;&#49;&#x34;&#56;&#64;&#x71;&#x71;&#46;&#x63;&#x6f;&#x6d;" target="_blank" rel="noopener">&#55;&#55;&#54;&#53;&#x39;&#x39;&#49;&#x34;&#56;&#64;&#x71;&#x71;&#46;&#x63;&#x6f;&#x6d;</a></p>
+<h2 id="八、图片链接"><a href="#八、图片链接" class="headerlink" title="八、图片链接"></a>八、图片链接</h2><h3 id="8-1单独图片文件夹"><a href="#8-1单独图片文件夹" class="headerlink" title="8.1单独图片文件夹"></a>8.1单独图片文件夹</h3><p>图片集中存放在source文件下创建的图片文件下<br>基本语法结构为：</p>
+<pre><code>![图片alt](图片地址 &apos;&apos;optional title&apos;&apos;)</code></pre><p>或者：</p>
+<pre><code>&lt;img src=&quot;&quot; alt=&quot;&quot;&gt;    </code></pre><p>图片alt就是显示在图片未加载时的文字描述，相当于对图片内容的解释。<br>图片地址可为相对地址或者绝地地址，或者数据格式。<br>图片title是图片的标题，时显示的内容。title可选。<br><a href="http://www.w3school.com.cn/tags/tag_img.asp" target="_blank" rel="noopener">img标签</a>的图像大小可选择。</p>
+<p><strong>注:hexo中图片的绝对路径为hexo文件下的source中，是要本地文件需要在source文件夹下创建图片文件夹。另外，部分编辑器依据md文件所在为绝对路径作为显示，故部分编辑器在预览是可能不显示图片。</strong><br>示例：</p>
+<pre><code>![图片](/images/MarkSloan.jpg &quot;实习医生格蕾marksloan&quot;) 
+&lt;img src=&quot;/images/marksloan2.jpg&quot; width=200 height = 200 alt=&quot;Mark Sloan&quot; title=&quot;使用 img标签Mark Sloan&quot;&gt;</code></pre><p><strong>显示下效果</strong>  </p>
+<p><img src="/images/MarkSloan.jpg" alt="source路径下图片" title="实习医生格蕾marksloan">  </p>
+<img src="/images/marksloan2.jpg" width="200" height="200" alt="Mark Sloan" title="使用 img标签Mark Sloan">  
+
+<p>当然图片也可以上传到图片床，然后使用在线链接。  </p>
+<h3 id="8-2图片跟随文件"><a href="#8-2图片跟随文件" class="headerlink" title="8.2图片跟随文件"></a>8.2图片跟随文件</h3><p>找到并设置config.yml配置文件： </p>
+<pre><code>post_asset_folder: true </code></pre><p>设置后每次执行hexo new [blog]命令后，会自动创建一个与新建blog.md名字相同的blog文件夹，将图片放入即可，使用时：<br>示例：</p>
+<pre><code>![第一种方式](aaa.jpg) 或者
+{% asset_img aaa.jpg [第二中方式] %}直接写入文件名即可</code></pre><p><strong>显示效果</strong></p>
+<p><img src="aaa.jpg" alt="显示" title="第一种方式"></p>
+<img src="/2019/05/28/初步应用介绍/aaa.jpg" title="第二种方式">
+
+
+<h2 id="九、代码块"><a href="#九、代码块" class="headerlink" title="九、代码块"></a>九、代码块</h2><h3 id="9-1-行内代码高亮"><a href="#9-1-行内代码高亮" class="headerlink" title="9.1 行内代码高亮"></a>9.1 行内代码高亮</h3><p>行内代码块使用反引号包围</p>
+<p>示例：</p>
+<pre><code>这是`java`语言代码块  </code></pre><p><strong>显示效果：</strong></p>
+<blockquote>
+<p>这是<code>java</code>代码</p>
+</blockquote>
+<h3 id="9-2-多行代码高亮"><a href="#9-2-多行代码高亮" class="headerlink" title="9.2 多行代码高亮"></a>9.2 多行代码高亮</h3><p>代码高亮用三个反引号<br>示例：</p>
+<p>```<br>代码……<br>代码……<br>代码……<br>```</p>
+<p><strong>显示效果：</strong></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">代码……   </span><br><span class="line">代码……  </span><br><span class="line">代码……</span><br></pre></td></tr></table></figure>
+
+<h3 id="代码区域使用4个连续的空格"><a href="#代码区域使用4个连续的空格" class="headerlink" title="代码区域使用4个连续的空格"></a>代码区域使用4个连续的空格</h3><pre><code>代码区域
+代码区域    
+代码区域</code></pre>]]></content>
       <tags>
         <tag>MarkDown</tag>
       </tags>
